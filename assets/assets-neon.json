@@ -1,13 +1,8 @@
 {
     "tileAnim":[
-        {"name": "mysteryBox", "startTile": 84,  "tiles":[84, 85, 86, 87], "delay": 4},
-        {"name": "water", "startTile": 231,  "tiles":[231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246], "delay": 1},
-		{"name": "water2", "startTile": 24,  "tiles":[24, 25, 26, 25], "delay": 4},
-		{"name": "spike", "startTile": 115,  "tiles":[115, 116], "delay": 10},
-		{"name": "bgStar", "startTile": 156,  "tiles":[156, 157], "delay": 10},
-		{"name": "bgMap", "startTile": 147,  "tiles":[147, 148], "delay": 10},
-		{"name": "shipDecor", "startTile": 88,  "tiles":[88, 89, 90, 89], "delay": 4},
-		{"name": "shipMap", "startTile": 117,  "tiles":[117, 118], "delay": 6},
-		{"name": "hurtStar", "startTile": 264,  "tiles":[264, 265, 266, 265], "delay": 4}
+        {"name": "mysteryBox", "startTile": 28,  "tiles":[28, 29, 30, 31], "delay": 4},
+        {"name": "mysteryBox", "startTile": 127,  "tiles":[127, 128, 129, 130], "delay": 4},
+        {"name": "mysteryBox", "startTile": 226,  "tiles":[226, 227, 228, 229], "delay": 4},
+        {"name": "mysteryBox", "startTile": 325,  "tiles":[325, 326, 327, 328], "delay": 4}
     ]
 }
