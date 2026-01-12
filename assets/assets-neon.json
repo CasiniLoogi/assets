@@ -1,6 +1,6 @@
 {
     "tileAnim":[
-        {"name": "mysteryBox", "startTile": 28,  "tiles":[28, 29, 30, 31], "delay": 4},
+        {"name": "mysteryBox", "startTile": 28,  "tiles":[28, 29, 87, 31], "delay": 4},
         {"name": "mysteryBox", "startTile": 127,  "tiles":[127, 128, 129, 130], "delay": 4},
         {"name": "mysteryBox", "startTile": 226,  "tiles":[226, 227, 228, 229], "delay": 4},
         {"name": "mysteryBox", "startTile": 325,  "tiles":[325, 326, 327, 328], "delay": 4}
