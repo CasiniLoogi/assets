@@ -11,14 +11,14 @@
         {"name": "water",           "startTile": 528,   "tiles":[528, 529, 530, 531],   "delay": 6},
         {"name": "water",           "startTile": 536,   "tiles":[536, 537, 538, 539],   "delay": 6},
         {"name": "water",           "startTile": 544,   "tiles":[544, 545, 546, 547],   "delay": 6},
-        {"name": "water",           "startTile": 552,   "tiles":[552, 553, 554, 556],   "delay": 6},
+        {"name": "water",           "startTile": 552,   "tiles":[552, 553, 554, 555],   "delay": 6},
         {"name": "lava",            "startTile": 561,   "tiles":[561, 562, 563, 564],   "delay": 4},
         {"name": "lava",            "startTile": 569,   "tiles":[569, 570, 571, 572],   "delay": 4},
         {"name": "lava",            "startTile": 577,   "tiles":[577, 578, 579, 580],   "delay": 4},
         {"name": "lava",            "startTile": 585,   "tiles":[585, 586, 587, 588],   "delay": 4},
-        {"name": "muncher",         "startTile": 535,   "tiles":[535, 536],             "delay": 8},
-        {"name": "muncher",         "startTile": 543,   "tiles":[543, 544],             "delay": 8},
-        {"name": "muncher",         "startTile": 551,   "tiles":[551, 552],             "delay": 8},
-        {"name": "muncher",         "startTile": 559,   "tiles":[559, 560],             "delay": 8}
+        {"name": "muncher",         "startTile": 535,   "tiles":[535, 568],             "delay": 6},
+        {"name": "muncher",         "startTile": 543,   "tiles":[543, 576],             "delay": 6},
+        {"name": "muncher",         "startTile": 551,   "tiles":[551, 584],             "delay": 6},
+        {"name": "muncher",         "startTile": 559,   "tiles":[559, 592],             "delay": 6}
     ]
 }
