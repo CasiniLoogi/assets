@@ -1,13 +1,24 @@
 {
     "tileAnim":[
-        {"name": "mysteryBox", "startTile": 84,  "tiles":[84, 85, 86, 87], "delay": 4},
-        {"name": "water", "startTile": 231,  "tiles":[231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246], "delay": 1},
-		{"name": "water2", "startTile": 24,  "tiles":[24, 25, 26, 25], "delay": 4},
-		{"name": "spike", "startTile": 115,  "tiles":[115, 116], "delay": 10},
-		{"name": "bgStar", "startTile": 156,  "tiles":[156, 157], "delay": 10},
-		{"name": "bgMap", "startTile": 147,  "tiles":[147, 148], "delay": 10},
-		{"name": "shipDecor", "startTile": 88,  "tiles":[88, 89, 90, 89], "delay": 4},
-		{"name": "shipMap", "startTile": 117,  "tiles":[117, 118], "delay": 6},
-		{"name": "hurtStar", "startTile": 264,  "tiles":[264, 265, 266, 265], "delay": 4}
+        {"name": "mysteryBox",      "startTile": 60,    "tiles":[60, 61, 62, 63],       "delay": 4},
+        {"name": "mysteryBox",      "startTile": 159,   "tiles":[159, 160, 161, 162],   "delay": 4},
+        {"name": "mysteryBox",      "startTile": 258,   "tiles":[258, 259, 260, 261],   "delay": 4},
+        {"name": "mysteryBox",      "startTile": 357,   "tiles":[357, 358, 359, 360],   "delay": 4},
+        {"name": "breakableBox",    "startTile": 93,    "tiles":[93, 94, 95, 96],       "delay": 4},
+        {"name": "breakableBox",    "startTile": 192,   "tiles":[192, 193, 194, 195],   "delay": 4},
+        {"name": "breakableBox",    "startTile": 291,   "tiles":[291, 292, 293, 294],   "delay": 4},
+        {"name": "breakableBox",    "startTile": 390,   "tiles":[390, 391, 392, 393],   "delay": 4},
+        {"name": "water",           "startTile": 528,   "tiles":[528, 529, 530, 531],   "delay": 6},
+        {"name": "water",           "startTile": 536,   "tiles":[536, 537, 538, 539],   "delay": 6},
+        {"name": "water",           "startTile": 544,   "tiles":[544, 545, 546, 547],   "delay": 6},
+        {"name": "water",           "startTile": 552,   "tiles":[552, 553, 554, 556],   "delay": 6},
+        {"name": "lava",            "startTile": 561,   "tiles":[561, 562, 563, 564],   "delay": 4},
+        {"name": "lava",            "startTile": 569,   "tiles":[569, 570, 571, 572],   "delay": 4},
+        {"name": "lava",            "startTile": 577,   "tiles":[577, 578, 579, 580],   "delay": 4},
+        {"name": "lava",            "startTile": 585,   "tiles":[585, 586, 587, 588],   "delay": 4},
+        {"name": "muncher",         "startTile": 535,   "tiles":[535, 536],             "delay": 8},
+        {"name": "muncher",         "startTile": 543,   "tiles":[543, 544],             "delay": 8},
+        {"name": "muncher",         "startTile": 551,   "tiles":[551, 552],             "delay": 8},
+        {"name": "muncher",         "startTile": 559,   "tiles":[559, 560],             "delay": 8}
     ]
 }
